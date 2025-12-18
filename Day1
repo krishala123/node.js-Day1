@@ -1,0 +1,11 @@
+// note; const express = require("express")
+//const app = express()
+
+
+
+//app.listen(3000,function(){
+  //  console.log("server has started at port 3000")
+//})
+// part number ,method
+//  request response cycle 1st vaneko request ho 2nd vaneko response j lekda ni vayo kam vaneko req ra respons kai kam garx 
+//
