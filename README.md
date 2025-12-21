@@ -2,7 +2,7 @@
 
 > A hands-on workshop to learn modern Node.js development — from basics to building and deploying full-stack applications.
 
-Badges: ![Node.js](https://img.shields.io/badge/node-%3E%3D18-green) ![License](https://img.shields.io/badge/license-MIT-blue
+Badges: ![Node.js](https://img.shields.io/badge/node-%3E%3D18-green) 
 
 ## Description
 
@@ -126,6 +126,7 @@ Please follow the code style in the repository and add tests for new features.
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 
 
