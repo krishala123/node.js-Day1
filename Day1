@@ -9,4 +9,5 @@
 // part number ,method
 //  request response cycle 1st vaneko request ho 2nd vaneko response j lekda ni vayo kam vaneko req ra respons kai kam garx 
 //mongoo db ma gayim tya project start garim tya bate link lim naya file banaiyim vs code ma tesma hamile mongoose import garim , ani connect vyo
-//
+// password: bcrypt.hashSync(password,10) yele pasword lai has garx string ma convert hunx jale garda hacker le pasword thapaudaina 10 ,12 jati ni halda hunx yele pasword lai gada banaux jati hale teti lap tatinxa
+//make create ra delete operation api for blog having field title, subtitle , description hru

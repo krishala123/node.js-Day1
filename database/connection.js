@@ -1,7 +1,7 @@
 const mongoose= require("mongoose")
 
 async function dbconnect() {
-    await mongoose.connect("mongodb+srv://krishalac9_db_user:krishala123@cluster0.qsiebq1.mongodb.net/?appName=Cluster0")
+    await mongoose.connect(process.env.CONNECTION_STRING)
+ console.log("DB connected sucessfully !!!")
 }
-       console.log("DB connected sucessfully !!!")
 module.exports= dbconnect 
